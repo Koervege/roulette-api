@@ -1,0 +1,23 @@
+{
+  "name": "roulette-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carlos Arce <carlos_arce93@hotmail.com> (https://www.linkedin.com/in/carlos-arce-godoy)/",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.10",
+    "@types/express": "^4.17.12",
+    "@types/mongoose": "^5.11.97",
+    "@types/morgan": "^1.9.2",
+    "@types/node": "^15.12.4",
+    "nodemon": "^2.0.7",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  }
+}
